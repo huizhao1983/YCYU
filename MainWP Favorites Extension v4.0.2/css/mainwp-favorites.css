@@ -1,0 +1,9 @@
+#mainwp-favorite-plugins,
+#mainwp-favorite-themes {
+	padding: 0;
+}
+
+#mainwp-favorite-plugins .mainwp-main-content,
+#mainwp-favorite-themes .mainwp-main-content {
+	padding: 0em;
+}
